@@ -11,5 +11,7 @@
 - Laravel ＋ Laravel Sail インストール　``` curl -s https://laravel.build/docker-laravelsail-dev | bash  ```
 - コンテナの作成・起動　``` cd docker-laravelsail-dev && ./vendor/bin/sail up -d ```
 - http://localhost/ で画面を確認
+- .bashrcを編集後は ``` sail up -d ``` で起動
 
 ![image](https://github.com/hiroshi-tanimoto/LaravelSail/assets/50011696/cacd6e51-5086-4f22-a7a5-543727feb586)
+
